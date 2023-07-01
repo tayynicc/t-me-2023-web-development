@@ -1,6 +1,15 @@
 npm version >= 5.2
 node version >= 14.0.0
+fastapi install --
+    cd backend
+    python3.10 -m venv venv
+    $ source venv/bin/activate
+    $ export PYTHONPATH=$PWD
 
+    pip install fastapi==0.78.0 uvicorn==0.17.6
+
+    Run entry point file from console:
+    python main.py
 installing cypress = npm install cypress
 # Getting Started with Create React App
 
