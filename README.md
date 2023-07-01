@@ -10,6 +10,9 @@ fastapi install --
 
     Run entry point file from console:
     python main.py
+
+    using https://testdriven.io/blog/fastapi-react/
+    
 installing cypress = npm install cypress
 # Getting Started with Create React App
 
